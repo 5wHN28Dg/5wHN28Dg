@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 5wHN28Dg
+
+Control & Computer Engineer
+
+“if someone else can do it then I can”
+
+## About me
+- I like to follow my interests — they always get me where I want to be.
+- Building things that get the job done.
+
+## Toolbox
+- Language: Python 🐍
+- Frameworks: exploring (recommendations welcome!)
+- Editor: Zed
+
+## Projects
+- Still cooking… announcements coming soon. 🍳
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/hashim-al-moussawi-aa86a3305
