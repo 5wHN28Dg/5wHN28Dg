@@ -1,37 +1,30 @@
 ## Hi there 👋
 
-<!--
-**5wHN28Dg/5wHN28Dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hashim** | Control & Computer Engineer  
+“if someone else can do it, then I can”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 5wHN28Dg
+## About Me
+- I follow my interests—they always get me where I want to be.  
+- I enjoy building things that get the job done efficiently.
 
-Control & Computer Engineer
-
-“if someone else can do it then I can”
-
-## About me
-- I like to follow my interests — they always get me where I want to be.
-- Building things that get the job done.
+---
 
 ## Toolbox
-- Language: Python 🐍
-- Frameworks: exploring (recommendations welcome!)
-- Editor: Zed
+- **Language:** Python 🐍  
+- **Frameworks:** Exploring new Python frameworks (recommendations welcome!)  
+- **Editor:** Zed  
+
+---
 
 ## Projects
-- Still cooking… announcements coming soon. 🍳
+- [Real-Time Gesture Mimicry](https://github.com/5wHN28Dg/Real-Time-Gesture-Mimicry) – Control a 3D-Printed Robotic Hand Using Webcam-Based Hand Tracking 🤖  
+- Telegram-related project – coming soon 🍳  
+- Secret project – in early stages, aiming to build something extremely fast ⚡
+
+---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/hashim-al-moussawi-aa86a3305
-- Mastodon: https://mastodon.social/@jer1ch0
+- **LinkedIn:** [Hashim](https://www.linkedin.com/in/hashim-al-moussawi-aa86a3305)  
+- **Mastodon:** [@jer1ch0](https://mastodon.social/@jer1ch0)
