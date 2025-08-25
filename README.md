@@ -14,7 +14,7 @@
 
 ## Projects
 - [Real-Time Gesture Mimicry](https://github.com/5wHN28Dg/Real-Time-Gesture-Mimicry) – Control a 3D-Printed Robotic Hand Using Webcam-Based Hand Tracking 🤖  
-- Telegram-related project – coming soon 🍳  
+- [tele_notify](https://github.com/5wHN28Dg/tele-notify) –  A Python script that monitors specified Telegram chats and forwards messages matching your custom filters to another chat.
 - Secret project – in early stages, aiming to build something extremely fast ⚡
 
 ## Connect
