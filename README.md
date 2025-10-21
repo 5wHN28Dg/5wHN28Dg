@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 **Hashim** | Control & Computer Engineer  
-“if someone else can do it, then I can”
 
 ## About Me
-- I follow my interests—they always get me where I want to be.  
 - I enjoy building things that get the job done efficiently.
 
 ## Toolbox
