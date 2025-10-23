@@ -7,7 +7,7 @@
 
 ## Toolbox
 - **Language:** Python, Kotlin  
-- **Frameworks:** Qt (PySide6), Jetpack Compose  
+- **Frameworks:** Exploring various Python GUI frameworks, Jetpack Compose  
 - **Editor:** Zed
 
 ## Projects
