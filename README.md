@@ -6,8 +6,8 @@
 - I enjoy building things that get the job done efficiently.
 
 ## Toolbox
-- **Language:** Python, Kotlin  
-- **Frameworks:** Exploring various Python GUI frameworks, Jetpack Compose  
+- **Language:** Python, Kotlin (Planned)
+- **Frameworks:** Learning Dear PyGui, Jetpack Compose (Planned)  
 - **Editor:** Zed
 
 ## Projects
