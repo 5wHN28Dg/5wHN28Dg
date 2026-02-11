@@ -7,8 +7,8 @@
 
 ## Toolbox
 - **Language:** Python
-- **Frameworks:** Dear PyGui  
-- **Editor:** Zed
+- **Frameworks:** Dear PyGui
+- **Editor:** Zed, Android Studio
 
 ## Projects
 - [Real-Time Gesture Mimicry](https://github.com/5wHN28Dg/Real-Time-Gesture-Mimicry) – Control a 3D-Printed Robotic Hand Using Webcam-Based Hand Tracking 🤖  
