@@ -7,7 +7,7 @@
 
 ## Toolbox
 - **Language:** Python
-- **Frameworks:** Dear PyGui
+- **Frameworks:** Dear PyGui, GTK4
 - **Editor:** Zed, Android Studio
 
 ## Projects
