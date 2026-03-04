@@ -3,7 +3,7 @@
 **Hashim** | Control & Computer Engineer  
 
 ## About Me
-- I build tools that are simple, practical, and under my full control.
+- I prefer deliberate engineering over convenience and simplicity over excess.
 
 ## Toolbox
 - **Language:** Python
