@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Hashim** | Control & Computer Engineer  
+My name is **Hashim**
 
 ## About Me
 - I prefer deliberate engineering over convenience and simplicity over excess.
